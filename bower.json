@@ -1,0 +1,26 @@
+{
+  "name": "js-todo-application",
+  "description": "Basic 'To Do' JavaScript application based on Node.js and Express.js .",
+  "main": "app.js",
+  "authors": [
+    "Tom Bruyninx"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Javascript",
+    "Node.js",
+    "Express.js"
+  ],
+  "homepage": "https://github.com/Tom-Br/js-ToDo-Application",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
