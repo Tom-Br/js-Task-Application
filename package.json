@@ -1,0 +1,34 @@
+{
+  "name": "js-todo-application",
+  "version": "0.0.1",
+  "description": "Basic 'To Do' JavaScript application based on Node.js and Express.js .",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tom-Br/js-ToDo-Application.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "Tom Bruyninx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tom-Br/js-ToDo-Application/issues"
+  },
+  "homepage": "https://github.com/Tom-Br/js-ToDo-Application#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "bower": "^1.8.2",
+    "gulp": "^3.9.1",
+    "nodemon": "^1.17.1",
+    "wiredep": "^4.0.0"
+  }
+}
