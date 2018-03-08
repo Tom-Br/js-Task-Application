@@ -1,6 +1,11 @@
 
 # Created by https://www.gitignore.io/api/node,windows,webstorm
 
+### Custom Ignores ###
+
+# Front-End Packages #
+public/lib/*
+
 ### Node ###
 # Logs
 logs
